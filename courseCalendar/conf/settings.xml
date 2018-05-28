@@ -1,0 +1,12 @@
+<settings>
+    <servers>
+       <server>
+        <id>central</id>
+        <username>admin</username>
+        <password>admin123</password>
+        <configuration>
+            <timeout>20000</timeout>
+        </configuration>
+       </server>
+    </servers>
+</settings>
